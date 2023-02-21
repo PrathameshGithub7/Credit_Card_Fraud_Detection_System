@@ -19,4 +19,4 @@ scikit-learn.
 Logistic Regression,
 Random Forest,
 XGBoost.
-## Best Model F1 Score: 90.00
+## Best Model F1 Score: 85.00
