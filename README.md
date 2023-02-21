@@ -14,9 +14,9 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 pandas,
 matplotlib,
 seaborn,
-scikit-learn,
+scikit-learn.
 ## Algorithms
 Logistic Regression,
 Random Forest,
-XGBoost,
+XGBoost.
 ## Best Model F1 Score: 90.00
